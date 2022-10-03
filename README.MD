@@ -11,7 +11,7 @@ Webstrom Setup-
 9. Select connect to GitHub and login to your GitHub credentials
 10. You have successfully setup - GitHub/Git/Webstorm
 
-**_Glossry_**
+**Glossry**
 
 **Branch**- set of code that is being worked on but does not affect the original code in the master class
 
